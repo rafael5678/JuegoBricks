@@ -1,3 +1,4 @@
+Juan Rafael Calzada
 # 🧪 Pruebas Unitarias con Pytest en JuegoBricks
 
 ## 📦 Instalación de Dependencias
